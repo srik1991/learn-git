@@ -1,0 +1,27 @@
+function int add(){
+    return a+b;
+}
+
+function int subtract(){
+    return a-b;
+}
+
+function int multiply(){
+    return a*b;
+}
+
+
+function int square(){
+    return a*a;
+}
+function int div(){
+    return a/b;
+}
+
+function int squareRoot(){
+    return a;
+}
+
+function int cube(){
+    return a*a*a;
+}
